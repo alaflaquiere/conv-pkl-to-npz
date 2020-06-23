@@ -8,5 +8,5 @@ Script to convert a dictionary of numpy arrays saved as a .pkl file to a .npz fi
 
 #### Example
 ```bash
-python conv-pkl-to-npz ./mydata *_data*.pkl
+python conv_pkl_to_npz ./mydata *_data*.pkl
 ```
